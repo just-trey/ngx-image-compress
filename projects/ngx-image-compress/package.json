@@ -1,12 +1,17 @@
 {
   "name": "ngx-image-compress",
-  "version": "8.0.3",
+  "version": "8.0.4",
   "author": "dfa",
   "repository": "https://github.com/dfa1234/ngx-image-compress",
-  "keywords":  ["angular","image","upload","compression"],
+  "keywords": [
+    "angular",
+    "image",
+    "upload",
+    "compression"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
   }
 }
-
